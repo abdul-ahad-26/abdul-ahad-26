@@ -29,9 +29,9 @@ I also work part-time shipping features to a **production codebase**, so I know 
 
 ## 🛠️ Tech Stack
 
-**AI & Agents:** Python · OpenAI Agents SDK · LLM integration · RAG · MCP · n8n · Streamlit
+**AI & Agents:** Python · OpenAI Agents SDK · LLM integration · Claude · OpenAI · RAG · MCP · n8n · Streamlit
 **ML & Data:** NumPy · Pandas · Matplotlib · scikit-learn · Computer Vision (CNNs, transfer learning)
-**Web & Full-Stack:** Next.js · TypeScript · React · Tailwind CSS · Sanity CMS · Vercel
+**Web & Full-Stack:** Next.js · TypeScript · React · Tailwind CSS · Fastapi · Sanity CMS · Vercel · Render
 **Tools:** Git & GitHub · SQL · Docker · C#/.NET
 
 ---
