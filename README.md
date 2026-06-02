@@ -65,13 +65,6 @@ I also work part-time shipping features to a **production codebase**, so I know 
 
 ---
 
-## 📈 GitHub Stats
-
-![Abdul Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-ahad-26&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-ahad-26&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect
 
 📩 **Email:** kaziabdulahad29@gmail.com  ·  💼 **LinkedIn:** [Abdul Ahad](https://www.linkedin.com/in/abdulahad26/)
